@@ -1,4 +1,4 @@
-import State_practice from './components/state_practice';
+import State_practice from './components/State_practice.jsx';
 import './App.css';
 
 function App() {

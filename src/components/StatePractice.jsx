@@ -5,7 +5,7 @@ const StatePractice = () => {
   return (
     <div>
       <h1>Good evening guys!!! We are pleased to work with you!!!</h1>
-      <img src = "map"/>
+      <img src = "map" height={"1560"} width={"1000"}/>
     </div>
   )
 }
